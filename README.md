@@ -12,6 +12,12 @@ A pseudo-3D game engine inspired by Wolfenstein 3D.
 
 ---
 
+### **Key Learnings**
+- Applying mathematical concepts in real code
+- Implementing the raycasting rendering technique
+
+---
+
 ### **About**
 
 👉 [**Project requirement**](\demo\en.subject.pdf)
@@ -35,6 +41,13 @@ This project also includes a minimap and sprite animations, including door open/
 
 ![figure-3](https://github.com/Mecha-Coder/42-cub3D/blob/main/demo/figure-3.png)
 
+
+--- 
+
+### Demo
+
+![demo](https://github.com/Mecha-Coder/42-cub3D/blob/main/demo/demo.gif)
+
 ---
 
 ### **My contribution**
@@ -47,18 +60,6 @@ This project also includes a minimap and sprite animations, including door open/
 
 ### **Teammate**
 - **John Tan** (https://github.com/jjohntan)
-
----
-
-### **Key Learnings**
-- Applying mathematical concepts in real code
-- Implementing the raycasting rendering technique
-
----
-
-
-### **Language / TechStack**
-- C Language, Minilibx library
 
 ---
 
@@ -91,8 +92,3 @@ make bonus
 - https://medium.com/@abdelhadi-salah/ray-casting-cub3d-bb5d99de742d
 - https://lodev.org/cgtutor/raycasting.html
 
---- 
-
-### Demo
-
-![demo](https://github.com/Mecha-Coder/42-cub3D/blob/main/demo/demo.gif)
